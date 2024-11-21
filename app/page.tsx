@@ -15,7 +15,7 @@ export default function Home() {
       <header className="bg-green-500 text-white py-6">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl font-bold">Sootcase (SOOT)</h1>
-          <p className="mt-2">The meme-inspired cryptocurrency that's all about fun and community.</p>
+          <p className="mt-2">The meme-inspired cryptocurrency that&apos;s all about fun and community.</p>
         </div>
       </header>
 
@@ -23,7 +23,7 @@ export default function Home() {
         <section className="text-center">
           <h2 className="text-2xl font-semibold mb-4">About Sootcase</h2>
           <p className="mb-6">
-            Sootcase is a community-driven cryptocurrency inspired by the viral meme of a young Barron Trump exclaiming, "I like my suitcase." Embracing the spirit of this meme, Sootcase blends humor, community, and philanthropy within the crypto space.
+            Sootcase is a community-driven cryptocurrency inspired by the viral meme of a young Barron Trump exclaiming, &qoute;I like my suitcase.&qoute; Embracing the spirit of this meme, Sootcase blends humor, community, and philanthropy within the crypto space.
           </p>
           <Image
             src={SOOT} // Ensure this image is placed in the public directory
@@ -58,7 +58,7 @@ export default function Home() {
               <strong>Go to Jupiter:</strong> Connect your wallet to Jupiter, paste the $SOOT token address, select trade, and confirm. When prompted by Phantom, sign the transaction.
             </li>
             <li>
-              <strong>Swap for Sootcase:</strong> Swap SOL for $SOOT. With zero taxes, you don't need to worry about specific slippage. If you don't have any SOL, you can buy directly on Phantom.
+              <strong>Swap for Sootcase:</strong> Swap SOL for $SOOT. With zero taxes, you don&apos;t need to worry about specific slippage. If you don&apos;t have any SOL, you can buy directly on Phantom.
             </li>
           </ol>
         </section>
